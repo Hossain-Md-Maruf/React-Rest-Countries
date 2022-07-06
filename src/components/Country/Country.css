@@ -1,0 +1,14 @@
+.country
+{
+    color: black;
+    background-color: skyblue;
+    border: 3px solid blue;
+    border-radius: 20px;
+    margin:20px;
+}
+
+.flag
+{
+    height:200px;
+    width: 300px; 
+}
